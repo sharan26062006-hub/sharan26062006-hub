@@ -79,12 +79,15 @@ Passionate about building scalable applications, REST APIs, and automation solut
 
 ## 🌐 Connect with Me
 
-📧 **Email:**  
-**sharan26.06.2006@gmail.com**
+<p align="left">
+  <a href="mailto:sharan26.06.2006@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 
-💼 **LinkedIn:**  
-https://www.linkedin.com/in/sharan-r-b96a09319
-
+  <a href="https://www.linkedin.com/in/sharan-r-b96a09319">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 ---
 
 ## 👀 Profile Views
