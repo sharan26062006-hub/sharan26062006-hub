@@ -1,93 +1,118 @@
 <h1 align="center">Hi 👋, I'm Sharan R</h1>
 
-<h3 align="center">Java Full Stack Developer | Spring Boot | Microservices | UiPath RPA Enthusiast</h3>
+<h3 align="center">
+🚀 Java Full Stack Developer | Spring Boot Developer | RPA Enthusiast
+</h3>
 
 <p align="center">
-Passionate about building scalable applications, REST APIs, and automation solutions while continuously learning new technologies.
+Passionate about building scalable web applications, REST APIs, and automation solutions.
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
 - 🎓 Computer Science Student
 - 💻 Java Full Stack Developer
 - 🌱 Currently learning Spring Security, Docker & Kubernetes
-- 🤖 Learning UiPath RPA Automation
-- 🚀 Interested in Microservices & Cloud Technologies
+- 🤖 Exploring UiPath RPA Automation
+- 🔥 Interested in Microservices Architecture
+- 📚 Always learning new technologies
 - 🎯 Goal: Become a Software Engineer at a Product-Based Company
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
-- Java
-- Python
-- JavaScript
+### Programming Languages
 
-### 🌐 Frontend
-- HTML5
-- CSS3
-- JavaScript
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### ⚙️ Backend
-- Spring Boot
-- REST APIs
-- Microservices
+### Backend
 
-### 🗄️ Database
-- MySQL
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge)
 
-### 🧰 Tools & Technologies
-- Git
-- GitHub
-- Postman
-- UiPath
-- IntelliJ IDEA
-- VS Code
+### Database
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Frontend
+
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+![UiPath](https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=uipath&logoColor=white)
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects
+## 💼 Featured Projects
 
 ### 🛒 Distributed E-Commerce Microservices
-- Spring Boot
-- Eureka Server
-- Inventory Service
-- REST APIs
-- MySQL
-- Service Communication
+
+✔ Spring Boot
+
+✔ Eureka Server
+
+✔ Inventory Service
+
+✔ REST APIs
+
+✔ MySQL
+
+✔ Microservices Architecture
+
+---
 
 ### 🤖 Attendance Automation using UiPath
-- Browser Automation
-- Excel Automation
-- Data Extraction
-- Process Automation
+
+✔ Browser Automation
+
+✔ Excel Automation
+
+✔ Data Extraction
+
+✔ Process Automation
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight)
+![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
 
 ---
-
 ## 🌐 Connect with Me
 
 <p align="left">
-  <a href="mailto:sharan26.06.2006@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+<a href="mailto:yourname@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-  <a href="https://www.linkedin.com/in/sharan-r-b96a09319">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+<a href="https://www.linkedin.com/in/your-linkedin-id">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 </p>
+
 ---
 
 ## 👀 Profile Views
@@ -96,10 +121,6 @@ Passionate about building scalable applications, REST APIs, and automation solut
 
 ---
 
-## 💡 Quote
-
-> "Consistency beats talent when talent doesn't work hard."
-
----
-
-<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
+<h3 align="center">
+⭐ Thanks for visiting my profile! ⭐
+</h3>
